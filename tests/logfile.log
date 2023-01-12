@@ -1,0 +1,29 @@
+2023-01-09 14:37:06,974 :INFO : test_navigateToHome :Mouse hovered on Gear dropdown
+2023-01-09 14:38:11,783 :INFO : test_navigateToHome :Mouse hovered on Gear dropdown
+2023-01-09 14:38:18,958 :INFO : test_navigateToHome :clicked on Bags button
+2023-01-09 14:58:51,076 :INFO : test_navigateToHome :Mouse hovered on Gear dropdown
+2023-01-09 14:58:58,589 :INFO : test_navigateToHome :clicked on Bags button
+2023-01-09 14:59:01,950 :INFO : test_addtocart :clicked on Bag
+2023-01-09 14:59:02,017 :INFO : test_addtocart :clicked on Add to cart
+2023-01-09 15:00:32,247 :INFO : test_navigateToHome :Mouse hovered on Gear dropdown
+2023-01-09 15:00:40,507 :INFO : test_navigateToHome :clicked on Bags button
+2023-01-09 15:00:43,841 :INFO : test_addtocart :clicked on Bag
+2023-01-09 15:00:43,898 :INFO : test_addtocart :clicked on Add to cart
+2023-01-09 15:24:09,436 :INFO : test_navigateToHome :Mouse hovered on Gear dropdown
+2023-01-09 15:24:18,762 :INFO : test_navigateToHome :clicked on Bags button
+2023-01-09 15:24:21,031 :INFO : test_addtocart :clicked on Bag
+2023-01-09 15:24:21,144 :INFO : test_addtocart :clicked on Add to cart
+2023-01-09 15:24:36,634 :INFO : test_proceedCheckout :clicked on Proceed to checkout
+2023-01-09 15:24:38,837 :INFO : test_proceedCheckout :Entered Customer email Id
+2023-01-09 15:24:39,942 :INFO : test_proceedCheckout :Entered first name
+2023-01-09 15:24:41,014 :INFO : test_proceedCheckout :Entered last name
+2023-01-09 15:24:42,108 :INFO : test_proceedCheckout :Entered company Name
+2023-01-09 15:24:43,273 :INFO : test_proceedCheckout :Entered street1 name
+2023-01-09 15:24:44,420 :INFO : test_proceedCheckout :Entered street2 name
+2023-01-09 15:24:45,561 :INFO : test_proceedCheckout :Entered street3 name
+2023-01-09 15:24:46,689 :INFO : test_proceedCheckout :Entered city name
+2023-01-09 15:24:47,878 :INFO : test_proceedCheckout :selected regionId from the dropdown
+2023-01-09 15:24:47,943 :INFO : test_proceedCheckout :Entered postal code
+2023-01-09 15:24:49,032 :INFO : test_proceedCheckout :Entered telephone number
+2023-01-09 15:24:59,228 :INFO : test_proceedCheckout :Clicked on Next button
+2023-01-09 15:25:09,331 :INFO : test_placeOrder :Clicked on Place Order
